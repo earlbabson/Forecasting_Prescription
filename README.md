@@ -1,1 +1,1 @@
-The objective of the project is to forecast the number of antidiabetic drug prescriptions in Australia, from 1991 to 2008. Solving this problem would allow us to gauge the production of antidiabetic drugs. So that we can produce enough to meet the demand and also avoid overproduction.
+The objective of the project is to forecast the number of antidiabetic drug prescriptions in Australia, from 1991 to 2008. Solving this problem would allow us to gauge the production of antidiabetic drugs; So, that we can produce enough to meet demand and avoid overproduction.
